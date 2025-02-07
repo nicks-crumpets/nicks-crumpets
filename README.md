@@ -1,1 +1,2 @@
-I'm Nick, a programming student currently on a T-Level Programming course
+I'm Nick, an advid software developer from the UK
+I'm currently on a T-level digital development and design course 
